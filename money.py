@@ -8,5 +8,5 @@ if withdraw <= balance:
     print("amount withdrawn:",withdraw)
     print("new balance is:",balance)
 else:
-  print("current balance:")
-  print("your balance is insufficient:")
+  print("current balance:",balance)
+  print("your balance is insufficient:",balance)
