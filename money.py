@@ -11,3 +11,4 @@ else:
   print("current balance:",balance)
   print("your balance is insufficient:",balance)
 print("hahahah u broke:")
+print("lol")
