@@ -10,3 +10,4 @@ if withdraw <= balance:
 else:
   print("current balance:",balance)
   print("your balance is insufficient:",balance)
+print("hahahah u broke:")
